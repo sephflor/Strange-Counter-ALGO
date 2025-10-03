@@ -1,1 +1,1 @@
-# Strange-Counter-ALGO
+# Strange-Counter-ALGO.This program calculates the value of a counter at a given second t in a sequence where the counter starts at 3 and doubles its starting value after each countdown. It finds the cycle containing t and computes the counter value as start - (t - time) for that cycle.
